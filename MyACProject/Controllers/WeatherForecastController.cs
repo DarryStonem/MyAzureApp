@@ -13,7 +13,7 @@ namespace MyACProject.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Humberto", "Cristian", "Luis", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Humberto", "FirstCampCloud", "Luis", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
